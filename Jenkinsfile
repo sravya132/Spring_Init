@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     tools {
-        maven 'Maven 3.8.6'   // Use exact name as in Jenkins
+        maven 'Maven 3.9.11'   // Use exact name as in Jenkins
         jdk 'JDK 21'          // Use exact name as in Jenkins
     }
 
